@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "An ultra-clean, high-contrast flat design dashboard for community issue reporting and verification, featuring real-time civic impact scores and automated AI categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
